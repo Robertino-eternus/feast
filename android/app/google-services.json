@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "28530051645",
+    "project_id": "feast-e0240",
+    "storage_bucket": "feast-e0240.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28530051645:android:97ffa15f31f51250e03854",
+        "android_client_info": {
+          "package_name": "com.example.feast"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0OjhByz1kRNmrWmqGDpndubfdA4mB1pQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
